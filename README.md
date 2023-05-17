@@ -1,5 +1,5 @@
-# todolist
-backend de uma todolist
+# ToDoList
+Lista de tarefas com back e frontend
 
 # start 
 npm run dev
